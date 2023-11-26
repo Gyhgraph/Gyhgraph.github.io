@@ -1,2 +1,0 @@
-# gyhgraph.github.io
-Blog

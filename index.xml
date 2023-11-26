@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dm‘s Blog</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Dm‘s Blog</description>
+    <image>
+      <title>Dm‘s Blog</title>
+      <url>https://example.org/papermod-cover.png</url>
+      <link>https://example.org/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>拥有一个个人博客真的是一件很酷的事情，不想去想写博客能给我带来什么，去享受写博客过程中的快乐！
+人的一生这样短暂而又漫长，试着去寻找、去冒险，善待自己
+总是很多时刻值得去记录下来
+是我的最近在做的事，也是一段时间里的想法，就像突然闪亮的灯💡。 And, find yourself.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

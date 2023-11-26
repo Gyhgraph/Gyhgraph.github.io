@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dm‘s Blog</title>
-    <link>https://example.org/tags/</link>
+    <link>https://gyhgraph.github.io/tags/</link>
     <description>Recent content in Tags on Dm‘s Blog</description>
     <image>
       <title>Dm‘s Blog</title>
-      <url>https://example.org/papermod-cover.png</url>
-      <link>https://example.org/papermod-cover.png</link>
+      <url>https://gyhgraph.github.io/papermod-cover.png</url>
+      <link>https://gyhgraph.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://gyhgraph.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

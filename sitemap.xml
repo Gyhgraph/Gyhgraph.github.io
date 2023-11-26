@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://gyhgraph.github.io/about/</loc>
   </url><url>
-    <loc>https://example.org/archives/</loc>
+    <loc>https://gyhgraph.github.io/archives/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://gyhgraph.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://gyhgraph.github.io/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://gyhgraph.github.io/tags/</loc>
   </url>
 </urlset>
